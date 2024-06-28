@@ -11,4 +11,3 @@ Navega por las carpetas para encontrar los write-ups de las diferentes máquinas
 
 Por otro lado, estos write-ups, más que ser unos reportes profesionales, son una guía o recorrido del proceso seguido para afrontar los diferentes problemas que se presentan. Por ello, el lenguaje usado en los mismos es simple, informal y cercano.
 
-Espero que los demás encuentren de utilidad estas redacciones y que aprendan tanto como he aprendido yo, ya sea a la hora de completar o redactar estos CTFs.
