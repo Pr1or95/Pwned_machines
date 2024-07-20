@@ -1,5 +1,5 @@
 # Pwned_machines
-Write-ups de máquinas (CTF style) de diferentes plataformas en formato PDF.
+Write-ups de diferentes máquinas (CTF style) en formato PDF.
 
 [Hack The Box](https://www.hackthebox.eu/)  
 [Vulnhub](https://www.vulnhub.com/)
